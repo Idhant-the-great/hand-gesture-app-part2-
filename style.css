@@ -1,0 +1,23 @@
+
+body
+{
+  color: black;
+  background:turquoise;
+}
+span
+{
+  font-size: 30px;
+}
+.gesture{
+    padding-right: 10px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 352px;
+  height: 352px;
+}
+  .heading{
+    font-size: 18px;
+    border-radius: 10px;
+    }
